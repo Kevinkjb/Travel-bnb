@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0",
+    "title": "Tokyo",
+    "location": "Japan",
+    "imgURL": "https://assets.editorial.aetnd.com/uploads/2013/07/gettyimages-1390815938.jpg",
+    "description": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods.",
+    "googleMap": "https://maps.app.goo.gl/HW42pQ4rNCT12JSy7",
+    "price": "200"
+  },
+  {
+    "id": "1",
+    "title": "Boracay",
+    "location": "Philippines",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/5/50/Boracay_White_Beach_in_day_%28985286231%29.jpg",
+    "description": "Boracay is a small island in the central Philippines. It's known for its resorts and beaches. Along the west coast, White Beach is backed by palm trees, bars and restaurants. ",
+    "googleMap": "https://maps.app.goo.gl/M7ymJMiCh6SAgH8H8",
+    "price": "19.00"
+  },
+  {
+    "id": "2",
+    "title": "Nami Island",
+    "location": "South Korea",
+    "imgURL": "https://cdn.sweetescape.com/images/cities/nami-island/cover/4bfc463d-d386-4004-86a5-84157060fdb9.jpg",
+    "description": "Namiseom or Nami Island is a half-moon shaped river island located in Chuncheon, Gangwon Province, South Korea, formed as the land around it was inundated by the rising water of the North Han River as the result of the construction of Cheongpyeong Dam in 1944.",
+    "googleMap": "https://maps.app.goo.gl/kvuVBWW7wQhCXwLQ9",
+    "price": "16.99"
+  },
+  {
+    "id": "2",
+    "title": "Nami Island",
+    "location": "South Korea",
+    "imgURL": "https://cdn.sweetescape.com/images/cities/nami-island/cover/4bfc463d-d386-4004-86a5-84157060fdb9.jpg",
+    "description": "Namiseom or Nami Island is a half-moon shaped river island located in Chuncheon, Gangwon Province, South Korea, formed as the land around it was inundated by the rising water of the North Han River as the result of the construction of Cheongpyeong Dam in 1944.",
+    "googleMap": "https://maps.app.goo.gl/kvuVBWW7wQhCXwLQ9",
+    "price": "16.99"
+  },
+  {
+    "id": "2",
+    "title": "Nami Island",
+    "location": "South Korea",
+    "imgURL": "https://cdn.sweetescape.com/images/cities/nami-island/cover/4bfc463d-d386-4004-86a5-84157060fdb9.jpg",
+    "description": "Namiseom or Nami Island is a half-moon shaped river island located in Chuncheon, Gangwon Province, South Korea, formed as the land around it was inundated by the rising water of the North Han River as the result of the construction of Cheongpyeong Dam in 1944.",
+    "googleMap": "https://maps.app.goo.gl/kvuVBWW7wQhCXwLQ9",
+    "price": "16.99"
+  },
+  {
+    "id": "2",
+    "title": "Nami Island",
+    "location": "South Korea",
+    "imgURL": "https://cdn.sweetescape.com/images/cities/nami-island/cover/4bfc463d-d386-4004-86a5-84157060fdb9.jpg",
+    "description": "Namiseom or Nami Island is a half-moon shaped river island located in Chuncheon, Gangwon Province, South Korea, formed as the land around it was inundated by the rising water of the North Han River as the result of the construction of Cheongpyeong Dam in 1944.",
+    "googleMap": "https://maps.app.goo.gl/kvuVBWW7wQhCXwLQ9",
+    "price": "16.99"
+  }
+  
+]
