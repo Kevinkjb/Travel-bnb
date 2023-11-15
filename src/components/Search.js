@@ -1,7 +1,7 @@
 import {BiSearch} from 'react-icons/bi'
 
 
-export const Search = () =>{
+export const Search = ({onSearchPlaces, query}) =>{
   return(
     <div className='flex items-center'>
       <div className=" relative rounded-md shadow-sm">
@@ -9,13 +9,13 @@ export const Search = () =>{
           <label htmlFor='query'/>
           <BiSearch className='text-gray-400 text-sm'/>
         </div>
-          <input type="text" name="query" className="border-2 text-gray-500 rounded-tl-md outline-none rounded-bl-md w-96 h-8 pl-8 text-sm" placeholder="Search"/>
-          
+          <input 
+          onChange={(e) =>{onSearchPlaces(e.target.value)}} 
+          value={query} 
+          type="text" 
+          name="query" 
+          className=" text-gray-500 outline-none rounded-md w-96 h-8 pl-8 text-sm" placeholder="Search"/>
       </div>
-      <div className='flex items-center jus'>
-        <button className='bg-blue-400 border-0 text-sm flex items-center justify-center w-16 h-8 text-white rounded-tr-md rounded-br-md'>Search</button>
-      </div>
-      
     </div>
   )
 }

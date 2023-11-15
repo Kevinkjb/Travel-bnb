@@ -1,12 +1,12 @@
 [
   {
     "id": "0",
-    "title": "Tokyo",
+    "title": "Tokyo Disneyland",
     "location": "Japan",
-    "imgURL": "https://assets.editorial.aetnd.com/uploads/2013/07/gettyimages-1390815938.jpg",
-    "description": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods.",
-    "googleMap": "https://maps.app.goo.gl/HW42pQ4rNCT12JSy7",
-    "price": "200"
+    "imgURL": "https://media2.tokyodisneyresort.jp/home/common/og_image.jpg",
+    "description": "Tokyo Disneyland is a 115-acre theme park at the Tokyo Disney Resort in Urayasu, Chiba Prefecture, Japan, near Tokyo. Its main gate is directly adjacent to both Maihama Station and Tokyo Disneyland Station.",
+    "googleMap": "https://maps.app.goo.gl/kwVZLiLSLFs7zz6G9",
+    "price": "76.58"
   },
   {
     "id": "1",
@@ -27,31 +27,31 @@
     "price": "16.99"
   },
   {
-    "id": "2",
-    "title": "Nami Island",
-    "location": "South Korea",
-    "imgURL": "https://cdn.sweetescape.com/images/cities/nami-island/cover/4bfc463d-d386-4004-86a5-84157060fdb9.jpg",
-    "description": "Namiseom or Nami Island is a half-moon shaped river island located in Chuncheon, Gangwon Province, South Korea, formed as the land around it was inundated by the rising water of the North Han River as the result of the construction of Cheongpyeong Dam in 1944.",
-    "googleMap": "https://maps.app.goo.gl/kvuVBWW7wQhCXwLQ9",
-    "price": "16.99"
+    "id": "3",
+    "title": "Chichén Itzá",
+    "location": "Mexico",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipPVRyqNwBkPGFTPdcqXJRH_9UD9iRY3nZyUu3xB=s1360-w1360-h1020",
+    "description": "Chichén Itzá is a complex of Mayan ruins on Mexico's Yucatán Peninsula. A massive step pyramid, known as El Castillo or Temple of Kukulcan, dominates the ancient city, which thrived from around 600 A.D. to the 1200s.",
+    "googleMap": "https://maps.app.goo.gl/YziocoTZ4G9hKSeC7",
+    "price": "7.99"
   },
   {
-    "id": "2",
-    "title": "Nami Island",
-    "location": "South Korea",
-    "imgURL": "https://cdn.sweetescape.com/images/cities/nami-island/cover/4bfc463d-d386-4004-86a5-84157060fdb9.jpg",
-    "description": "Namiseom or Nami Island is a half-moon shaped river island located in Chuncheon, Gangwon Province, South Korea, formed as the land around it was inundated by the rising water of the North Han River as the result of the construction of Cheongpyeong Dam in 1944.",
-    "googleMap": "https://maps.app.goo.gl/kvuVBWW7wQhCXwLQ9",
-    "price": "16.99"
+    "id": "4",
+    "title": "CN Tower",
+    "location": "Toronto",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipN5wjHch3YXJqjF6-EKQ98X3e4kg98kIQ35_gVU=s1360-w1360-h1020",
+    "description": "The CN Tower is a 553.3 m-high concrete communications and observation tower in Toronto, Ontario, Canada. Completed in 1976, it is located in downtown Toronto, built on the former Railway Lands.",
+    "googleMap": "https://maps.app.goo.gl/fegRsvKU1HbWok4A7",
+    "price": "48.59"
   },
   {
-    "id": "2",
-    "title": "Nami Island",
-    "location": "South Korea",
-    "imgURL": "https://cdn.sweetescape.com/images/cities/nami-island/cover/4bfc463d-d386-4004-86a5-84157060fdb9.jpg",
-    "description": "Namiseom or Nami Island is a half-moon shaped river island located in Chuncheon, Gangwon Province, South Korea, formed as the land around it was inundated by the rising water of the North Han River as the result of the construction of Cheongpyeong Dam in 1944.",
-    "googleMap": "https://maps.app.goo.gl/kvuVBWW7wQhCXwLQ9",
-    "price": "16.99"
+    "id": "5",
+    "title": "Glacier National Park",
+    "location": "Alberta",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipO0nMrhz9-SRLCZOEQAt7XBmZPY0ncaQFGf-2c2=s1360-w1360-h1020",
+    "description": "Glacier National Park is a 1,583-sq.-mi. wilderness area in Montana's Rocky Mountains, with glacier-carved peaks and valleys running to the Canadian border. It's crossed by the mountainous Going-to-the-Sun Road.",
+    "googleMap": "https://maps.app.goo.gl/bwddeMv939ZZg1Ht5",
+    "price": "95.27"
   }
   
 ]
